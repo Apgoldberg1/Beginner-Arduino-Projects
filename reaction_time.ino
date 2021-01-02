@@ -4,6 +4,7 @@
  * 
  * follow instruction here to connect lcd https://www.arduino.cc/en/Tutorial/LibraryExamples/HelloWorld
  * Wire GPIO18 to a resistor which connects to the negative side of an LED.  Wire the other side of the LED to digital pin 8
+ * Wire 5V into a button, wire the other button into digital 10
 */
 #include <LiquidCrystal.h> //LCD library
 
