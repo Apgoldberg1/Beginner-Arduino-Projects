@@ -1,6 +1,6 @@
-#Beginner Arduino Projects
+<h1>Beginner Arduino Projects</h1>
 
-<h1>Arduino-Carnival-Lights-Game</h1>
+<h2>Arduino-Carnival-Lights-Game</h2>
 
 This a minigame where the active light moves back and forth across a row of 11 lights in order.  
 When it reaches the end it travels back in the opposite direction.
@@ -12,7 +12,7 @@ Uses Arduino Nano, button, 13 LEDs, and keyestudio 8x8 light matrix.
 
 The Zip files are libraries for the matrix
 
-<h1>Reaction Time</h1>
+<h2>Reaction Time</h2>
 
 The reaction time project test reactio time from the visual cue of a light to pressing a button.  
 The time is displayed on an LCD screen along with a message.
